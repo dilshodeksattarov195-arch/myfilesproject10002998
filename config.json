@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsealculate",
+        "uuid": 21096926,
+        "checksum": "b4ims"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
